@@ -1,0 +1,37 @@
+{
+    "mixer": {
+        "Token": "Mixer BOT TOKEN"
+    },
+    "discord": {
+        "token": "Discord BOT TOKEN",
+        "client_id": "Discord Client ID",
+        "prefix": "Prefix",
+        "owner_id": "OWNER ID",
+        "owner": "OWNER NAME",
+        "twitch_api_key": "TWITCH KEY",
+        "authorization": "bots.discord.pw API",
+        "authorization1": "discordbots.org API",
+        "twitchname": "TWITCH USERNAME",
+        "admins": ["ADMIN1"],
+        "patron_role": "PATRON ROLE ID",
+        "gamewisp_role": "GAMEWISP ROLE ID",
+        "PRVSub_role": "4PRIVATE SUB ROLE ID",
+        "admin_role": "ADMIN ROLE ID",
+        "mod_role": "MOD ROLE ID",
+        "subAnnounceChat": "CHANNEL ANONOUCEMENTS ID",
+        "subAlertChat": "CHANNEL ALERTS ID",
+        "patron_guild": "DISCORD CHANNEL ID",
+        "bf1trnkey": "TRN KEY BF1",
+        "fnltrnkey": "TRN KEY  FORTNITE",
+        "hypixelAPI": "HYPIXEL APIKEY",
+        "youtube_api_key": "YOUTUBE APIKEY"
+    },
+    "twitch": {
+        "TBOAuth": "TWITCH BOT OAUTH PASSWORD",
+        "TBUsername": "TWITCH BOT USERNAME",
+        "Channels": ["channel1", "channel2"]
+    },
+    "apiKey": "YOUTUBE APIKEY",
+    "chatID": "YOUTUBE LIVECHATID",
+    "refresh_token": "BOT REFRESH TOKEN!",
+}
